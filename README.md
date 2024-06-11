@@ -1,12 +1,13 @@
 # Bucks2Bar
 
-This is a project called Bucks2Bar that utilizes the latest version of Bootstrap.
+It is a website that allows users to enter income and expenses for each month of the year and then plot those values to a graph using Chart.js where the user can download that graph as an image and open it from their device.
+
+This project was generated with Github Copilot and utilizes the latest version of Bootstrap.
 
 ## Project Structure
 
 The project has the following files and directories:
 
-- `css/style.css`: This file contains custom CSS styles for the project.
 - `js/main.js`: This file contains custom JavaScript code for the project.
 - `lib/bootstrap/css/bootstrap.min.css`: This file is the latest version of Bootstrap's CSS file.
 - `lib/bootstrap/js/bootstrap.min.js`: This file is the latest version of Bootstrap's JavaScript file.
@@ -16,13 +17,6 @@ The project has the following files and directories:
 
 To use this project, simply open the `index.html` file in a web browser.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 ```
 
 Please note that the content above assumes that the project tree structure provided is accurate and complete.
