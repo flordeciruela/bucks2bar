@@ -15,7 +15,7 @@ The project has the following files and directories:
 
 ## Usage
 
-To use this project, simply open the `index.html` file in a web browser.
+To use this project, simply open the [Demo](https://flordeciruela.github.io/bucks2bar/) in a web browser.
 
 ```
 
